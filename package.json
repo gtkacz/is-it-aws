@@ -18,7 +18,7 @@
 		"@vitejs/plugin-vue": "^5.2.3",
 		"sass": "^1.86.0",
 		"typescript": "^5.8.2",
-		"vite": "^6.2.4",
+		"vite": "^7.0.5",
 		"vite-plugin-vuetify": "^2.1.0"
 	}
 }
